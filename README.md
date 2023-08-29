@@ -1,12 +1,13 @@
-### Hi there 👋
+## Sunstar VIII
 
-I'm your local cat king/leader.
+Hi there 👋 [A cat](https://warriors.fandom.com/wiki/Sunstar) who smashes the keyboard and sometimes produces (actually good) code. 
+- 🛠️ TypeScript / React / Next / yarn
+- ✏️ macOS / VS Code
 
-- 🔭 I’m currently working on my rich text editor project and language-ext.
-- 🌱 I’m not currently learning anything.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with the selection/range API.
-- 💬 Ask me about anything related to my projects.
-- 📫 How to reach me: Email
+### More About Me
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my rich text editor project.
+- 🌱 I’m not currently learning anything apart from school.
+- 💬 Ask me about anything related to my projects.
+- 📫 How to reach me: Email (it's the fastest way)
+- ⚡ Fun fact: I can't think of one.
